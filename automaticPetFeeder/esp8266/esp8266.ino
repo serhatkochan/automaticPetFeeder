@@ -9,11 +9,11 @@
 #include <addons/RTDBHelper.h>
 
 
-#define WIFI_SSID "SerhatMuratFurkan"
-#define WIFI_PASSWORD "21032000"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define API_KEY "AIzaSyAF7qgiz-y6u0OzGhVLFn_kktQ1RYhr9LE"
-#define DATABASE_URL "deneme2-28fe3-default-rtdb.europe-west1.firebasedatabase.app" 
+#define API_KEY ""
+#define DATABASE_URL "" 
 
 FirebaseData fbdo;
 FirebaseAuth auth;
