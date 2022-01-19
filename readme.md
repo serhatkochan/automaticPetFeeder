@@ -1,0 +1,1 @@
+Used ESP32 and Servo Motor.
