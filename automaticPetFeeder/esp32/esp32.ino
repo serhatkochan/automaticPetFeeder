@@ -7,8 +7,8 @@
 //Provide the RTDB payload printing info and other helper functions.
 #include <addons/RTDBHelper.h>
 
-#define WIFI_SSID "SerhatMuratFurkan"
-#define WIFI_PASSWORD "21032000"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD "0"
 
 #define API_KEY ""
 #define DATABASE_URL ""
